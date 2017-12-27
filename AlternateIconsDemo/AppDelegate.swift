@@ -3,7 +3,7 @@
 //  AlternateIconsDemo
 //
 //  Created by QDHL on 2017/12/26.
-//  Copyright © 2017年 QDHL. 
+//  Copyright © 2017年 QDHL. All rights reserved.
 //
 
 import UIKit
