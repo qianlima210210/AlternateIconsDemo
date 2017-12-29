@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E90944D51FF3527F006E76B1 /* alternate60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90944D31FF3527F006E76B1 /* alternate60@3x.png */; };
-		E90944D61FF3527F006E76B1 /* alternate60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90944D41FF3527F006E76B1 /* alternate60@2x.png */; };
 		E90944D81FF35764006E76B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90944D71FF35764006E76B1 /* AppDelegate.swift */; };
 		E96DDB291FF1F6A6001AF120 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E96DDB281FF1F6A6001AF120 /* Assets.xcassets */; };
 		E96DDB2C1FF1F6A6001AF120 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96DDB2A1FF1F6A6001AF120 /* LaunchScreen.storyboard */; };
@@ -17,8 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E90944D31FF3527F006E76B1 /* alternate60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alternate60@3x.png"; sourceTree = "<group>"; };
-		E90944D41FF3527F006E76B1 /* alternate60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alternate60@2x.png"; sourceTree = "<group>"; };
 		E90944D71FF35764006E76B1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E96DDB1E1FF1F6A6001AF120 /* AlternateIconsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlternateIconsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96DDB281FF1F6A6001AF120 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -59,8 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				E90944D71FF35764006E76B1 /* AppDelegate.swift */,
-				E90944D41FF3527F006E76B1 /* alternate60@2x.png */,
-				E90944D31FF3527F006E76B1 /* alternate60@3x.png */,
 				E96DDB281FF1F6A6001AF120 /* Assets.xcassets */,
 				E96DDB2A1FF1F6A6001AF120 /* LaunchScreen.storyboard */,
 				E96DDB2D1FF1F6A6001AF120 /* Info.plist */,
@@ -131,8 +125,6 @@
 			files = (
 				E96DDB3A1FF1FA91001AF120 /* SecondViewController.xib in Resources */,
 				E96DDB2C1FF1F6A6001AF120 /* LaunchScreen.storyboard in Resources */,
-				E90944D51FF3527F006E76B1 /* alternate60@3x.png in Resources */,
-				E90944D61FF3527F006E76B1 /* alternate60@2x.png in Resources */,
 				E96DDB291FF1F6A6001AF120 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

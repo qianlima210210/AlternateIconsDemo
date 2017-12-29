@@ -6,11 +6,66 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>alternate60</key>
+			<key>春</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>alternate60</string>
+					<string>春</string>
+					<string>春</string>
+					<string>春</string>
+					<string>春</string>
+					<string>春</string>
+					<string>春</string>
+					<string>春</string>
+					<string>春</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>夏</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>夏</string>
+					<string>夏</string>
+					<string>夏</string>
+					<string>夏</string>
+					<string>夏</string>
+					<string>夏</string>
+					<string>夏</string>
+					<string>夏</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>秋</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>秋</string>
+					<string>秋</string>
+					<string>秋</string>
+					<string>秋</string>
+					<string>秋</string>
+					<string>秋</string>
+					<string>秋</string>
+					<string>秋</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>冬</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>冬</string>
+					<string>冬</string>
+					<string>冬</string>
+					<string>冬</string>
+					<string>冬</string>
+					<string>冬</string>
+					<string>冬</string>
+					<string>冬</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>
