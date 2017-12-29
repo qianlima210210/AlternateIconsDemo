@@ -8,6 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		E90944D81FF35764006E76B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90944D71FF35764006E76B1 /* AppDelegate.swift */; };
+		E90945481FF67831006E76B1 /* 春Icon-Small-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945251FF67831006E76B1 /* 春Icon-Small-20@3x.png */; };
+		E90945491FF67831006E76B1 /* 春Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945261FF67831006E76B1 /* 春Icon-60@2x.png */; };
+		E909454A1FF67831006E76B1 /* 春Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945271FF67831006E76B1 /* 春Icon-60@3x.png */; };
+		E909454B1FF67831006E76B1 /* 春Icon-Small-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945281FF67831006E76B1 /* 春Icon-Small-20@2x.png */; };
+		E909454C1FF67831006E76B1 /* 春Icon-Small-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945291FF67831006E76B1 /* 春Icon-Small-29@2x.png */; };
+		E909454D1FF67831006E76B1 /* 春Icon-Small-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909452A1FF67831006E76B1 /* 春Icon-Small-29@3x.png */; };
+		E909454E1FF67831006E76B1 /* 春Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909452B1FF67831006E76B1 /* 春Icon-Small-40@2x.png */; };
+		E909454F1FF67831006E76B1 /* 春Icon-Small-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909452C1FF67831006E76B1 /* 春Icon-Small-40@3x.png */; };
+		E90945501FF67831006E76B1 /* 夏Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909452E1FF67831006E76B1 /* 夏Icon-Small-40@2x.png */; };
+		E90945511FF67831006E76B1 /* 夏Icon-Small-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909452F1FF67831006E76B1 /* 夏Icon-Small-40@3x.png */; };
+		E90945521FF67831006E76B1 /* 夏Icon-Small-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945301FF67831006E76B1 /* 夏Icon-Small-29@2x.png */; };
+		E90945531FF67831006E76B1 /* 夏Icon-Small-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945311FF67831006E76B1 /* 夏Icon-Small-29@3x.png */; };
+		E90945541FF67831006E76B1 /* 夏Icon-Small-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945321FF67831006E76B1 /* 夏Icon-Small-20@3x.png */; };
+		E90945551FF67831006E76B1 /* 夏Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945331FF67831006E76B1 /* 夏Icon-60@2x.png */; };
+		E90945561FF67831006E76B1 /* 夏Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945341FF67831006E76B1 /* 夏Icon-60@3x.png */; };
+		E90945571FF67831006E76B1 /* 夏Icon-Small-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945351FF67831006E76B1 /* 夏Icon-Small-20@2x.png */; };
+		E90945581FF67831006E76B1 /* 秋Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945371FF67831006E76B1 /* 秋Icon-60@3x.png */; };
+		E90945591FF67831006E76B1 /* 秋Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945381FF67831006E76B1 /* 秋Icon-Small-40@2x.png */; };
+		E909455A1FF67831006E76B1 /* 秋Icon-Small-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945391FF67831006E76B1 /* 秋Icon-Small-40@3x.png */; };
+		E909455B1FF67831006E76B1 /* 秋Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909453A1FF67831006E76B1 /* 秋Icon-60@2x.png */; };
+		E909455C1FF67831006E76B1 /* 秋Icon-Small-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909453B1FF67831006E76B1 /* 秋Icon-Small-29@2x.png */; };
+		E909455D1FF67831006E76B1 /* 秋Icon-Small-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909453C1FF67831006E76B1 /* 秋Icon-Small-29@3x.png */; };
+		E909455E1FF67831006E76B1 /* 秋Icon-Small-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909453D1FF67831006E76B1 /* 秋Icon-Small-20@3x.png */; };
+		E909455F1FF67831006E76B1 /* 秋Icon-Small-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E909453E1FF67831006E76B1 /* 秋Icon-Small-20@2x.png */; };
+		E90945601FF67831006E76B1 /* 冬Icon-Small-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945401FF67831006E76B1 /* 冬Icon-Small-29@3x.png */; };
+		E90945611FF67831006E76B1 /* 冬Icon-Small-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945411FF67831006E76B1 /* 冬Icon-Small-29@2x.png */; };
+		E90945621FF67831006E76B1 /* 冬Icon-Small-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945421FF67831006E76B1 /* 冬Icon-Small-40@3x.png */; };
+		E90945631FF67831006E76B1 /* 冬Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945431FF67831006E76B1 /* 冬Icon-60@2x.png */; };
+		E90945641FF67831006E76B1 /* 冬Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945441FF67831006E76B1 /* 冬Icon-60@3x.png */; };
+		E90945651FF67831006E76B1 /* 冬Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945451FF67831006E76B1 /* 冬Icon-Small-40@2x.png */; };
+		E90945661FF67831006E76B1 /* 冬Icon-Small-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945461FF67831006E76B1 /* 冬Icon-Small-20@2x.png */; };
+		E90945671FF67831006E76B1 /* 冬Icon-Small-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E90945471FF67831006E76B1 /* 冬Icon-Small-20@3x.png */; };
 		E96DDB291FF1F6A6001AF120 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E96DDB281FF1F6A6001AF120 /* Assets.xcassets */; };
 		E96DDB2C1FF1F6A6001AF120 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96DDB2A1FF1F6A6001AF120 /* LaunchScreen.storyboard */; };
 		E96DDB391FF1FA91001AF120 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96DDB371FF1FA91001AF120 /* SecondViewController.swift */; };
@@ -16,6 +48,38 @@
 
 /* Begin PBXFileReference section */
 		E90944D71FF35764006E76B1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E90945251FF67831006E76B1 /* 春Icon-Small-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-Small-20@3x.png"; sourceTree = "<group>"; };
+		E90945261FF67831006E76B1 /* 春Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-60@2x.png"; sourceTree = "<group>"; };
+		E90945271FF67831006E76B1 /* 春Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-60@3x.png"; sourceTree = "<group>"; };
+		E90945281FF67831006E76B1 /* 春Icon-Small-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-Small-20@2x.png"; sourceTree = "<group>"; };
+		E90945291FF67831006E76B1 /* 春Icon-Small-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-Small-29@2x.png"; sourceTree = "<group>"; };
+		E909452A1FF67831006E76B1 /* 春Icon-Small-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-Small-29@3x.png"; sourceTree = "<group>"; };
+		E909452B1FF67831006E76B1 /* 春Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-Small-40@2x.png"; sourceTree = "<group>"; };
+		E909452C1FF67831006E76B1 /* 春Icon-Small-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "春Icon-Small-40@3x.png"; sourceTree = "<group>"; };
+		E909452E1FF67831006E76B1 /* 夏Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-Small-40@2x.png"; sourceTree = "<group>"; };
+		E909452F1FF67831006E76B1 /* 夏Icon-Small-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-Small-40@3x.png"; sourceTree = "<group>"; };
+		E90945301FF67831006E76B1 /* 夏Icon-Small-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-Small-29@2x.png"; sourceTree = "<group>"; };
+		E90945311FF67831006E76B1 /* 夏Icon-Small-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-Small-29@3x.png"; sourceTree = "<group>"; };
+		E90945321FF67831006E76B1 /* 夏Icon-Small-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-Small-20@3x.png"; sourceTree = "<group>"; };
+		E90945331FF67831006E76B1 /* 夏Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-60@2x.png"; sourceTree = "<group>"; };
+		E90945341FF67831006E76B1 /* 夏Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-60@3x.png"; sourceTree = "<group>"; };
+		E90945351FF67831006E76B1 /* 夏Icon-Small-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "夏Icon-Small-20@2x.png"; sourceTree = "<group>"; };
+		E90945371FF67831006E76B1 /* 秋Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-60@3x.png"; sourceTree = "<group>"; };
+		E90945381FF67831006E76B1 /* 秋Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-Small-40@2x.png"; sourceTree = "<group>"; };
+		E90945391FF67831006E76B1 /* 秋Icon-Small-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-Small-40@3x.png"; sourceTree = "<group>"; };
+		E909453A1FF67831006E76B1 /* 秋Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-60@2x.png"; sourceTree = "<group>"; };
+		E909453B1FF67831006E76B1 /* 秋Icon-Small-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-Small-29@2x.png"; sourceTree = "<group>"; };
+		E909453C1FF67831006E76B1 /* 秋Icon-Small-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-Small-29@3x.png"; sourceTree = "<group>"; };
+		E909453D1FF67831006E76B1 /* 秋Icon-Small-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-Small-20@3x.png"; sourceTree = "<group>"; };
+		E909453E1FF67831006E76B1 /* 秋Icon-Small-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "秋Icon-Small-20@2x.png"; sourceTree = "<group>"; };
+		E90945401FF67831006E76B1 /* 冬Icon-Small-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-Small-29@3x.png"; sourceTree = "<group>"; };
+		E90945411FF67831006E76B1 /* 冬Icon-Small-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-Small-29@2x.png"; sourceTree = "<group>"; };
+		E90945421FF67831006E76B1 /* 冬Icon-Small-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-Small-40@3x.png"; sourceTree = "<group>"; };
+		E90945431FF67831006E76B1 /* 冬Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-60@2x.png"; sourceTree = "<group>"; };
+		E90945441FF67831006E76B1 /* 冬Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-60@3x.png"; sourceTree = "<group>"; };
+		E90945451FF67831006E76B1 /* 冬Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-Small-40@2x.png"; sourceTree = "<group>"; };
+		E90945461FF67831006E76B1 /* 冬Icon-Small-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-Small-20@2x.png"; sourceTree = "<group>"; };
+		E90945471FF67831006E76B1 /* 冬Icon-Small-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "冬Icon-Small-20@3x.png"; sourceTree = "<group>"; };
 		E96DDB1E1FF1F6A6001AF120 /* AlternateIconsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlternateIconsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96DDB281FF1F6A6001AF120 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E96DDB2B1FF1F6A6001AF120 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -35,9 +99,81 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E90945231FF67831006E76B1 /* 节日图标 */ = {
+			isa = PBXGroup;
+			children = (
+				E90945241FF67831006E76B1 /* 春 */,
+				E909452D1FF67831006E76B1 /* 夏 */,
+				E90945361FF67831006E76B1 /* 秋 */,
+				E909453F1FF67831006E76B1 /* 冬 */,
+			);
+			path = "节日图标";
+			sourceTree = "<group>";
+		};
+		E90945241FF67831006E76B1 /* 春 */ = {
+			isa = PBXGroup;
+			children = (
+				E90945251FF67831006E76B1 /* 春Icon-Small-20@3x.png */,
+				E90945261FF67831006E76B1 /* 春Icon-60@2x.png */,
+				E90945271FF67831006E76B1 /* 春Icon-60@3x.png */,
+				E90945281FF67831006E76B1 /* 春Icon-Small-20@2x.png */,
+				E90945291FF67831006E76B1 /* 春Icon-Small-29@2x.png */,
+				E909452A1FF67831006E76B1 /* 春Icon-Small-29@3x.png */,
+				E909452B1FF67831006E76B1 /* 春Icon-Small-40@2x.png */,
+				E909452C1FF67831006E76B1 /* 春Icon-Small-40@3x.png */,
+			);
+			path = "春";
+			sourceTree = "<group>";
+		};
+		E909452D1FF67831006E76B1 /* 夏 */ = {
+			isa = PBXGroup;
+			children = (
+				E909452E1FF67831006E76B1 /* 夏Icon-Small-40@2x.png */,
+				E909452F1FF67831006E76B1 /* 夏Icon-Small-40@3x.png */,
+				E90945301FF67831006E76B1 /* 夏Icon-Small-29@2x.png */,
+				E90945311FF67831006E76B1 /* 夏Icon-Small-29@3x.png */,
+				E90945321FF67831006E76B1 /* 夏Icon-Small-20@3x.png */,
+				E90945331FF67831006E76B1 /* 夏Icon-60@2x.png */,
+				E90945341FF67831006E76B1 /* 夏Icon-60@3x.png */,
+				E90945351FF67831006E76B1 /* 夏Icon-Small-20@2x.png */,
+			);
+			path = "夏";
+			sourceTree = "<group>";
+		};
+		E90945361FF67831006E76B1 /* 秋 */ = {
+			isa = PBXGroup;
+			children = (
+				E90945371FF67831006E76B1 /* 秋Icon-60@3x.png */,
+				E90945381FF67831006E76B1 /* 秋Icon-Small-40@2x.png */,
+				E90945391FF67831006E76B1 /* 秋Icon-Small-40@3x.png */,
+				E909453A1FF67831006E76B1 /* 秋Icon-60@2x.png */,
+				E909453B1FF67831006E76B1 /* 秋Icon-Small-29@2x.png */,
+				E909453C1FF67831006E76B1 /* 秋Icon-Small-29@3x.png */,
+				E909453D1FF67831006E76B1 /* 秋Icon-Small-20@3x.png */,
+				E909453E1FF67831006E76B1 /* 秋Icon-Small-20@2x.png */,
+			);
+			path = "秋";
+			sourceTree = "<group>";
+		};
+		E909453F1FF67831006E76B1 /* 冬 */ = {
+			isa = PBXGroup;
+			children = (
+				E90945401FF67831006E76B1 /* 冬Icon-Small-29@3x.png */,
+				E90945411FF67831006E76B1 /* 冬Icon-Small-29@2x.png */,
+				E90945421FF67831006E76B1 /* 冬Icon-Small-40@3x.png */,
+				E90945431FF67831006E76B1 /* 冬Icon-60@2x.png */,
+				E90945441FF67831006E76B1 /* 冬Icon-60@3x.png */,
+				E90945451FF67831006E76B1 /* 冬Icon-Small-40@2x.png */,
+				E90945461FF67831006E76B1 /* 冬Icon-Small-20@2x.png */,
+				E90945471FF67831006E76B1 /* 冬Icon-Small-20@3x.png */,
+			);
+			path = "冬";
+			sourceTree = "<group>";
+		};
 		E96DDB151FF1F6A6001AF120 = {
 			isa = PBXGroup;
 			children = (
+				E90945231FF67831006E76B1 /* 节日图标 */,
 				E96DDB201FF1F6A6001AF120 /* AlternateIconsDemo */,
 				E96DDB1F1FF1F6A6001AF120 /* Products */,
 			);
@@ -123,9 +259,41 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E90945571FF67831006E76B1 /* 夏Icon-Small-20@2x.png in Resources */,
+				E90945651FF67831006E76B1 /* 冬Icon-Small-40@2x.png in Resources */,
+				E90945541FF67831006E76B1 /* 夏Icon-Small-20@3x.png in Resources */,
+				E90945601FF67831006E76B1 /* 冬Icon-Small-29@3x.png in Resources */,
+				E90945551FF67831006E76B1 /* 夏Icon-60@2x.png in Resources */,
+				E909454A1FF67831006E76B1 /* 春Icon-60@3x.png in Resources */,
 				E96DDB3A1FF1FA91001AF120 /* SecondViewController.xib in Resources */,
+				E90945631FF67831006E76B1 /* 冬Icon-60@2x.png in Resources */,
+				E90945521FF67831006E76B1 /* 夏Icon-Small-29@2x.png in Resources */,
+				E909455D1FF67831006E76B1 /* 秋Icon-Small-29@3x.png in Resources */,
 				E96DDB2C1FF1F6A6001AF120 /* LaunchScreen.storyboard in Resources */,
+				E909454E1FF67831006E76B1 /* 春Icon-Small-40@2x.png in Resources */,
+				E90945491FF67831006E76B1 /* 春Icon-60@2x.png in Resources */,
+				E909455E1FF67831006E76B1 /* 秋Icon-Small-20@3x.png in Resources */,
+				E90945531FF67831006E76B1 /* 夏Icon-Small-29@3x.png in Resources */,
+				E909455B1FF67831006E76B1 /* 秋Icon-60@2x.png in Resources */,
+				E909455A1FF67831006E76B1 /* 秋Icon-Small-40@3x.png in Resources */,
+				E909455F1FF67831006E76B1 /* 秋Icon-Small-20@2x.png in Resources */,
+				E909455C1FF67831006E76B1 /* 秋Icon-Small-29@2x.png in Resources */,
+				E90945501FF67831006E76B1 /* 夏Icon-Small-40@2x.png in Resources */,
+				E90945661FF67831006E76B1 /* 冬Icon-Small-20@2x.png in Resources */,
+				E90945671FF67831006E76B1 /* 冬Icon-Small-20@3x.png in Resources */,
+				E90945481FF67831006E76B1 /* 春Icon-Small-20@3x.png in Resources */,
+				E90945621FF67831006E76B1 /* 冬Icon-Small-40@3x.png in Resources */,
+				E90945641FF67831006E76B1 /* 冬Icon-60@3x.png in Resources */,
 				E96DDB291FF1F6A6001AF120 /* Assets.xcassets in Resources */,
+				E909454C1FF67831006E76B1 /* 春Icon-Small-29@2x.png in Resources */,
+				E90945611FF67831006E76B1 /* 冬Icon-Small-29@2x.png in Resources */,
+				E90945591FF67831006E76B1 /* 秋Icon-Small-40@2x.png in Resources */,
+				E90945511FF67831006E76B1 /* 夏Icon-Small-40@3x.png in Resources */,
+				E909454B1FF67831006E76B1 /* 春Icon-Small-20@2x.png in Resources */,
+				E90945581FF67831006E76B1 /* 秋Icon-60@3x.png in Resources */,
+				E909454F1FF67831006E76B1 /* 春Icon-Small-40@3x.png in Resources */,
+				E90945561FF67831006E76B1 /* 夏Icon-60@3x.png in Resources */,
+				E909454D1FF67831006E76B1 /* 春Icon-Small-29@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

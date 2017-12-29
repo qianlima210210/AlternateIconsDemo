@@ -10,14 +10,10 @@
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>春</string>
-					<string>春</string>
-					<string>春</string>
-					<string>春</string>
-					<string>春</string>
-					<string>春</string>
-					<string>春</string>
-					<string>春</string>
+					<string>春Icon-Small-20</string>
+					<string>春Icon-60</string>
+					<string>春Icon-Small-29</string>
+					<string>春Icon-Small-40</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>
@@ -26,14 +22,10 @@
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>夏</string>
-					<string>夏</string>
-					<string>夏</string>
-					<string>夏</string>
-					<string>夏</string>
-					<string>夏</string>
-					<string>夏</string>
-					<string>夏</string>
+					<string>夏Icon-Small-20</string>
+					<string>夏Icon-60</string>
+					<string>夏Icon-Small-29</string>
+					<string>夏Icon-Small-40</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>
@@ -42,14 +34,10 @@
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>秋</string>
-					<string>秋</string>
-					<string>秋</string>
-					<string>秋</string>
-					<string>秋</string>
-					<string>秋</string>
-					<string>秋</string>
-					<string>秋</string>
+					<string>秋Icon-Small-20</string>
+					<string>秋Icon-60</string>
+					<string>秋Icon-Small-29</string>
+					<string>秋Icon-Small-40</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>
@@ -58,14 +46,10 @@
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
-					<string>冬</string>
-					<string>冬</string>
-					<string>冬</string>
-					<string>冬</string>
-					<string>冬</string>
-					<string>冬</string>
-					<string>冬</string>
-					<string>冬</string>
+					<string>冬Icon-Small-20</string>
+					<string>冬Icon-60</string>
+					<string>冬Icon-Small-29</string>
+					<string>冬Icon-Small-40</string>
 				</array>
 				<key>UIPrerenderedIcon</key>
 				<false/>

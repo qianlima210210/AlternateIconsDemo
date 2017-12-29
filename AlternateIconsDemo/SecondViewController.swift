@@ -36,32 +36,71 @@ class SecondViewController: UIViewController {
             
         }
     }
-    
-    @IBAction func alternateClicked(_ sender: UIButton) {
+    /// 春天图标
+    @IBAction func 春Clicked(_ sender: UIButton) {
         
         if #available(iOS 10.3, *) {
             if UIApplication.shared.supportsAlternateIcons {
-                let iconName = UIApplication.shared.alternateIconName
-                if iconName == nil {//当前显示的是原始图标
-                    UIApplication.shared.setAlternateIconName("alternate60", completionHandler: { (error) in
-                        
-                    })
-                }
+                print("替换前图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                //当前显示的是原始图标
+                UIApplication.shared.setAlternateIconName("春", completionHandler: { (error: Error?) in
+                print("替换后图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                })
             }
         }
     }
     
-    @IBAction func primaryClicked(_ sender: UIButton) {
+    /// 夏天图标
+    @IBAction func 夏Clicked(_ sender: UIButton) {
         if #available(iOS 10.3, *) {
             if UIApplication.shared.supportsAlternateIcons {
-                if let _ = UIApplication.shared.alternateIconName {//当前显示的是替换图标
-                    UIApplication.shared.setAlternateIconName(nil, completionHandler: { (error) in
-                        
-                    })
-                }
+                print("替换前图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                //当前显示的是原始图标
+                UIApplication.shared.setAlternateIconName("夏", completionHandler: { (error: Error?) in
+                    print("替换后图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                })
             }
         }
-        
+    }
+    
+    /// 秋天图标
+    @IBAction func 秋Clicked(_ sender: UIButton){
+        if #available(iOS 10.3, *) {
+            if UIApplication.shared.supportsAlternateIcons {
+                print("替换前图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                //当前显示的是原始图标
+                UIApplication.shared.setAlternateIconName("秋", completionHandler: { (error: Error?) in
+                    print("替换后图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                })
+            }
+        }
+    }
+    
+    /// 冬天图标
+    @IBAction func 冬Clicked(_ sender: UIButton){
+        if #available(iOS 10.3, *) {
+            if UIApplication.shared.supportsAlternateIcons {
+                print("替换前图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                //当前显示的是原始图标
+                UIApplication.shared.setAlternateIconName("冬", completionHandler: { (error: Error?) in
+                    print("替换后图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                })
+            }
+        }
+    }
+    
+    
+    /// 原始图标
+    @IBAction func primaryClicked(_ sender: UIButton){
+        if #available(iOS 10.3, *) {
+            if UIApplication.shared.supportsAlternateIcons {
+                print("替换前图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                //当前显示的是原始图标
+                UIApplication.shared.setAlternateIconName(nil, completionHandler: { (error: Error?) in
+                    print("替换后图标：\(UIApplication.shared.alternateIconName ?? "原始图标")")
+                })
+            }
+        }
     }
     
     
@@ -78,16 +117,17 @@ class SecondViewController: UIViewController {
         if 812 == UIScreen.main.bounds.height {
             firstViewSuperviewBottom.constant = 34.0
         }
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        self.runtimeRemoveAlert()
+        //self.runtimeRemoveAlert()
     }
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-        self.runtimeResetAlert()
+        //self.runtimeResetAlert()
     }
     
     //利用runtime指定方法实现
